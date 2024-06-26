@@ -19,3 +19,5 @@ VideoSlide.propTypes = {
 }
 
 export default VideoSlide
+
+

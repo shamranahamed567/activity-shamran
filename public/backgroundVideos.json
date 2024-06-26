@@ -1,0 +1,52 @@
+{
+  "background": [
+    {
+      "id": 23,
+      "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "videoType": "video/webm",
+      "heading": "LOREM IPSUM DOLOR",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros."
+    },
+    {
+      "id": 27,
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "heading": "LOREM IPSUM DOLOR",
+      "videoType": "video/mp4",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros."
+    },
+    {
+      "id": 30,
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "heading": "LOREM IPSUM DOLOR",
+      "videoType": "video/mp4",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros."
+    }
+  ],
+  "carousel": [
+    {
+      "id": 28,
+     "title": "Lorem ipsum #1",
+      "description": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci."
+    },
+    {
+      "id": 21,
+      "title": "Lorem ipsum #2",
+      "description": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci."
+    },
+    {
+      "id": 22,
+      "title": "Lorem ipsum #3",
+      "description": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci."
+    },
+    {
+      "id": 45,
+      "title": "Lorem ipsum #4",
+      "description": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci."
+    },
+    {
+      "id": 85,
+      "title": "Lorem ipsum #5",
+      "description": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci."
+    }
+  ]
+}
